@@ -1,0 +1,16 @@
+Audit Area,Question,Score (0-5),Simulated Observation,Suggested Action
+Receiving,Unnecessary items removed?,2,Unused cartons near receiving desk,Remove unused cartons
+Receiving,Materials clearly labelled?,3,Two shelves have unclear labels,Relabel shelves
+Receiving,Work area clean?,4,Floor generally clean; one spill kit missing,Restock spill kit
+Receiving,Visual standards displayed?,2,No posted area standard,Display visual standard
+Receiving,Weekly audit followed?,1,No evidence of recurring audit,Assign weekly audit owner
+Packing,Unnecessary items removed?,3,Some obsolete packaging retained,Review packaging stock
+Packing,Materials clearly labelled?,2,Consumables mixed across bins,Label and separate bins
+Packing,Work area clean?,3,Cleaning log incomplete,Introduce end-of-shift log
+Packing,Visual standards displayed?,3,Labels exist but are inconsistent,Standardize labels
+Packing,Weekly audit followed?,2,Audits irregular,Schedule recurring audit
+Dispatch,Unnecessary items removed?,4,Only required materials present,Maintain current state
+Dispatch,Materials clearly labelled?,4,Most lanes labelled,Replace damaged labels
+Dispatch,Work area clean?,3,Loose wrap observed,Add waste point
+Dispatch,Visual standards displayed?,2,Lane map outdated,Update lane map
+Dispatch,Weekly audit followed?,3,Audit completed twice this month,Set weekly cadence
